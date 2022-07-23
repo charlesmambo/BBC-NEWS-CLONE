@@ -1,0 +1,272 @@
+body{
+    box-sizing: border-box;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+}
+#navbar{
+    width: 1250px;
+    margin: auto;
+    padding-top: 5px;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+li{
+    list-style-type: none;
+    display: inline;
+}
+#logo-img{
+    padding-right: 20px;
+}
+#signin-img{
+    width: 24px;
+    position: relative;
+    top: -2px;
+}
+#search-img{
+    /* padding: 5px 16px; */
+    width: 22px;
+    height: 22px;
+}
+#sign-in-text{
+    position: relative;
+    top: -2px;
+    left: -15px;
+    text-transform: capitalize;
+    border-right: 1px solid #ccc;
+    padding-right: 40px;
+
+}
+.nav-text{
+    padding: 0 15px;
+    position: relative;
+    top: -7px;
+}
+.nav-link{
+    font-weight: 500;
+    font-size: 0.9rem;
+    text-decoration: none;
+    color: #000;
+}
+#search-btn{
+    width: 240px;
+    padding: 10px 16px;;
+    border: none;
+    text-align: left;
+    font-weight: 600;
+}
+.search-icon{
+    width: 20px;
+
+}
+
+/* Sub-navbar Section */
+#second-navbar{
+    height: 60px;
+    background-color: #B92322;
+    padding-bottom: 45px; 
+    font-family: "Montserrat", sans-serif;
+}
+#second-navbar-container{
+    width: 1250px;
+    margin: auto;
+}
+h1{
+    color: #fff;
+    font-size: 2.2rem;
+    display: inline-block;
+    font-weight: 600;
+}
+.sec-nav-item{
+    position: relative;
+    top: -16px;
+    color: #c1c2c4 ;
+    font-size: 14px;
+    padding: 0 5px;
+}
+.sec-nav-link{
+    text-decoration: none;
+    color: #fff;
+    padding-bottom: 7px;
+    padding-right: 3px;
+    font-size: 13px;
+}
+
+.sec-nav-link:hover{
+    border-bottom: 5px solid #fff;
+}
+#tech-link{
+    border-bottom: 5px solid #fff;  
+}
+
+/* Features Section */
+#features{
+    padding-left: 2%;
+    font-family: "Montserrat", sans-serif;
+    float: left;
+}
+.features-container{
+    width: 430px;
+    padding-right: 8px;
+}
+.tech-heading{
+    font-weight: normal;
+    font-size: 1.4rem;
+    width: 50px;
+    border-bottom: 3px solid #B92322; 
+}
+
+#elon-img{
+    width: 100%;
+}
+.elon-links{
+    list-style-type: circle;
+    position: relative;
+    top: -16px;
+}
+h2 a{
+    color: #000;
+    text-decoration: none;
+    font-size: 1.4rem;
+    
+}
+h2 a:hover{
+    color: #B92322;
+    text-decoration: underline;
+}
+.p-text{
+    font-size: 14px;
+    line-height: 24px;
+    color: #555;
+    position: relative;
+    top: -14px;
+}
+.date{
+    font-size: 0.8rem;
+    position: relative;
+    top: 2px;
+}
+.clocks{
+    padding-right: 4px;
+}
+
+/* Tinder SEction */
+.about-tech{
+    /* width: 1250px;
+    margin: auto; */
+    font-family: "Montserrat", sans-serif;  
+ 
+}
+.about-tech-container{
+    width: 250px;
+    margin: 5px;
+    float: left;
+    margin-top: 50px;
+}
+.tech-img{
+    width: 100%;
+}
+h3 a{
+    text-decoration: none;
+    color: #000;
+    font-size: 1rem;
+    /* position: relative;
+    top: -10px; */
+}
+h3 a:hover{
+    color: #B92322;
+    text-decoration: underline;
+}
+.tech-link{
+    text-decoration: none;
+    color: #000;
+    margin-left: 4px;
+}
+.tech-link:hover{
+    color: #B92322;
+    text-decoration: underline;
+}
+ .snapchat{
+    position: relative;
+    left: -270px;
+    bottom: 50px;
+}
+.ai{
+    position: relative;
+    left: -265px;
+    bottom: 50px; 
+    float: left;
+} 
+.minister{
+    position: relative;
+    top: -498px;
+    right: 20px;
+    float: right;
+
+}
+.clear{
+    clear: both;
+    display: block;
+    margin-bottom: 0;
+}
+/* Tech Information */
+#third-section{
+    width: 1220px;
+    margin: auto;
+    font-family: "Montserrat", sans-serif; 
+    position: relative;
+    bottom: 530px;
+}
+.tech-info-containers{
+   width: 227px;
+   float: left;
+   margin: 8px;
+}
+
+#watch{
+    width: 1220px;
+    margin: auto;
+    font-family: "Montserrat", sans-serif;  
+    position: relative;
+    bottom: 580px; 
+    
+}
+.watch-header{
+    color: #555;
+    font-weight: normal;
+    font-size: 1.9rem;
+    padding-right: 10px;
+    float: left;
+    
+}
+.hr{
+    position: relative;
+    top: 48px;
+}
+.horizontal-line{
+    width: 914px;
+}
+.watch-container{
+    width: 230px;
+    float: left;
+    margin: 0 6px;
+}
+#features-analysis{
+    width: 1220px;
+    margin: auto;
+    font-family: "Montserrat", sans-serif;  
+    position: relative;
+    bottom: 595px;
+}
+
+
+
+
+
+
+
+
+
+
